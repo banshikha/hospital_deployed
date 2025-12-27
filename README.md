@@ -3,7 +3,7 @@ A web-based Hospital Management Project that improves communication between pati
 ## 🔗 Live Demo
 
 - Patient Dashboard: https://hospital-management-system-banshi.netlify.app/
-- Admin / Doctor Dashboard: https://admin-dashboard-banshi.netlify.app/login
+- Admin / Doctor Dashboard:[ https://admin-dashboard-banshi.netlify.app/login](https://admin-dashboard-banshi.netlify.app/login)
 
 
 ## Description:🚀
